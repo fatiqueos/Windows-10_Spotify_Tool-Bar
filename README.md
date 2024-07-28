@@ -1,4 +1,4 @@
-# SpotifyWidget
+# Windows 10 Spotify Tool Bar
 A Windows 10 toolbar to show your current Spotify song in the taskbar
 
 ![Spotify Widget](https://i.debuggings.dev/Nwiag4WQ.png)
