@@ -17,6 +17,7 @@ The currently played track is grabbed from the Spotify window's title. If Spotif
 3) Run `register.bat` as Administrator.
 4) Enable the Toolbar in your taskbar.  
 <img src="https://i.debuggings.dev/lw7ueEla.png" width=400px>
+
 ## Running on Windows 11
 
 Use **ExplorerPatcher** to restore classic taskbar functionality.
